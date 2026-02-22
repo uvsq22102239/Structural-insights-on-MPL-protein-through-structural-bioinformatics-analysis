@@ -1,5 +1,7 @@
 # Structural insights on MPL protein through structural bioinformatics analysis
 
+**Lucas Auclair, Julien Diharce & Alexandre G. de Brevern**
+
 ---
 
 ## Additional Videos:
