@@ -32,8 +32,8 @@
 
 ## PDB Models:
 
-- **MPL_MODEL_FOR_SIMULATIONS.pdb**
+- **MPL_MODEL_FOR_SIMULATIONS.pdb**  
   *PDB model containing all the PTMs.*
   
-- **modeller_final_output.pdb**
+- **modeller_final_output.pdb**  
   *Direct output model from the last step with MODELLER*
