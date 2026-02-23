@@ -1,6 +1,17 @@
 # Structural insights on MPL protein through structural bioinformatics analysis
 
-**Lucas Auclair, Julien Diharce & Alexandre G. de Brevern**
+This repository provides the supplementary materials associated with the study:  
+**"Structural insights on MPL protein through structural bioinformatics analysis"**
+
+**Authors: Lucas Auclair, Julien Diharce & Alexandre G. de Brevern**
+
+---
+
+## Summary:
+
+These files are made available to ensure transparency, reproducibility, and to facilitate further research on MPL structural dynamics. This dataset includes:
+* **Molecular Dynamics (MD) videos:** Three replicates for both non-phosphorylated and phosphorylated intracellular domains.
+* **Structural models:** The generated models used for simulations and subsequent bioinformatics analyses.
 
 ---
 
@@ -39,3 +50,7 @@
   
 - **modeller_final_output.pdb**  
   *Direct output model from the last step with MODELLER*
+
+---
+
+This data is provided for academic and research purposes.
